@@ -18,10 +18,8 @@ I'm a passionate cybersecurity professional specializing in penetration testing,
 - OWASP Top 10 Vulnerabilities
 
 
-### 🌐 Connect with Me
-- [LinkedIn](https://id.linkedin.com/in/septio-noerdiansyah)
+### 🌐 Have time to read ? Try My Article
 - [Medium](https://medium.com/@ryuukhagetsu)
-- 📧 ryuukhagetsu@linuxhackingid.com
 
 
 ## 🌐 Socials:
